@@ -2,7 +2,7 @@ module.exports = {
     joke: function() {
         let jokes  = require('./Assets/joke_list').jokes;
         let j = jokes[Math.floor(Math.random() * jokes.length)]
-        return q.joke
+        return j.joke
     },
     pun: function() {
         let pun  = require('./Assets/pun_list').pun;
