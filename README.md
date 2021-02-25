@@ -1,5 +1,10 @@
-# Bugs and glitches
-Feel free to report all bugs and glitches by creating an issue in the [issue section](https://github.com/beCoditive/discord-memer/issues/new).
+# Random Jokes Api
+
+![npm bundle size](https://img.shields.io/bundlephobia/min/random-jokes-api)
+![npm](https://img.shields.io/npm/v/random-jokes-api)
+
+## Bugs and glitches
+Feel free to report all bugs and glitches by creating an issue in the [issue section](https://github.com/beCoditive/random-jokes-api/issues/new).
 
 A correct and understandable issue contains :
 
@@ -11,18 +16,18 @@ You can also join me on my [discord server](https://discord/5JtJFEcZeP).
 
 <a href="https://discord.gg/5JtJFEcZeP"><img src="https://discord.com/api/guilds/760922672519184384/widget.png" alt="Amandine support server"/></a>
 
-ou can download it from <a href="https://www.npmjs.com/package/discord-memer">npmjs</a>.
+ou can download it from <a href="https://www.npmjs.com/package/random-jokes-api">npmjs</a>.
 
 ```cli
-npm i discord-memer
+npm i random-jokes-api
 ```
 
-# Configuration
+## Configuration
 
 The first step is to import the module in your code.
 
 ```js
-const Memer = require("discord-memer");
+const Memer = require("random-jokes-api");
 ```
 
 Then you have to request a API call according to your choice.
@@ -33,7 +38,7 @@ const Discord = require("discord.js")
 // Create a new discord.js client.
 const bot = new Discord.Client()
 
-const Memer = require("discord-memer");
+const Memer = require("random-jokes-api");
 > You can also destructure to avoid repeating Memer.
 
 // Listen to the ready event
@@ -61,3 +66,11 @@ bot.login("super_secret_token")
 - ``let jokes = Memer.joke()``
 
 - ``let puns = Memer.pun()``
+
+- ``let roast = Memer.roast()``
+
+- ``let antijoke = Memer.antijoke()``
+
+- ``let quotes = Memer.quotes()``
+
+- ``let web = Memer.uselessweb()``
