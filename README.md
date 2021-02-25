@@ -74,3 +74,41 @@ bot.login("super_secret_token")
 - ``let quotes = Memer.quotes()``
 
 - ``let web = Memer.uselessweb()``
+
+- ``let shower = Memer.showerThought()``
+
+# Image Generation
+
+
+```js
+const Memer = require("random-jokes-api")
+
+const Discord = require("discord.js")
+
+const bot = new Discord.Client()
+
+// Listen to the ready event
+bot.on("ready", () => {
+    console.log("Ready!");  
+})
+
+// Listen to the message event
+bot.on("message", async (message) => {
+    if (message.content === "meme") {
+
+        let meme = Memer.meme()
+
+        let embed = new Discord.MessageEmbed()
+        .setTitle(meme.title)
+        .setImage(meme.url)
+        .setFooter(`Categroy: ${meme.category}`)
+
+        message.channel.send(embed)
+    }
+})
+
+````
+
+
+
+
