@@ -1,13 +1,19 @@
 {
-  "name": "discord-memer",
-  "version": "1.0.0",
+  "name": "random-jokes-api",
+  "version": "1.0.3",
   "main": "index.js",
   "license": "MIT",
-  "repository": "https://github.com/beCoditive/discord-memer",
+  "repository": "https://github.com/beCoditive/random-jokes-api",
   "keywords": [
-    "becoditive",
+    "beCoditive",
     "npm",
     "package",
-    "discord-memer"
+    "joke api",
+    "Random Jokes",
+    "Anti Jokes",
+    "Pun Jokes",
+    "Random Quotes",
+    "Roasts",
+    "uselessweb"
   ]
 }

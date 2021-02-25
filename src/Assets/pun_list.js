@@ -63,81 +63,81 @@ const pun = [
     {
         joke: "A police officer just knocked on my door and told me my dogs are chasing people on bikes. That’s ridiculous. My dogs don’t even own bikes",
     },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
+    {
+        joke: "German sausage jokes are just the wurst",
+    },
+    {
+        joke: "How does Moses make coffee? Hebrews it",
+    },
+    {
+        joke: "I used to be indecisive; now I'm not so sure",
+    },
+    {
+        joke: "I walked into my sister's room and tripped on a bra... It was a booby trap",
+    },
+    {
+        joke: "What do you call the ghost of a chicken? A poultry-geist",
+    },
 
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
+    {
+        joke: "Police were called to a daycare center where a three-year-old was resisting a rest",
+    },
+    {
+        joke: "I'm on a seafood diet. Every time I see food, I eat it",
+    },
+    {
+        joke: "I like European food so I decided to Russia over there because I was Hungary. After Czech'ing the menu I ordered Turkey. When I was Finnished I told the waiter 'Spain good but there is Norway I could eat another bite'",
+    },
+    {
+        joke: "He who laughs last thinks slowest",
+    },
 
-    // {
-    //     joke: "",
-    // },{
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
+    {
+        joke: "Why are frogs so happy? They eat whatever bugs them",
+    },{
+        joke: "The machine at the coin factory just suddenly stopped working, with no explanation. It doesn’t make any cents",
+    },
+    {
+        joke: "What did the grape say when it got stepped on? Nothing - but it let out a little whine",
+    },
 
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
+    {
+        joke: "What do you call a super articulate dinosaur? A Thesaurus",
+    },
+    {
+        joke: "Somebody stole all my lamps… I couldn’t be more de-lighted!",
+    },
+    {
+        joke: "Why is the number six afraid of seven? Because seven ate nine",
+    },
+    {
+        joke: "What do you call a man with no arms and no legs stuffed in your mailbox? Bill",
+    },
+    {
+        joke: "Why aren’t dogs good dancers? Because they have two left feet!",
+    },
+    {
+        joke: "What did one flag say to the other? Nothing, it just waved.",
+    },
 
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
-    // {
-    //     joke: "",
-    // },
+    {
+        joke: "I lost my mood ring, and I don't know how I'm feeling about that",
+    },
+    {
+        joke: "How was Rome split in two? With a pair of Ceasars",
+    },
+    {
+        joke: "I'm not a doctor but I'm losing my patience",
+    },
+    {
+        joke: "I bought a boat because it was for sail",
+    },
+    {
+        joke: "Being vegetarian was a huge missed-steak",
+    },
+    {
+        joke: "What would you get if you'd put a lawyer in a suit? A lawsuit",
+    },
     // {
     //     joke: "",
     // },
