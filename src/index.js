@@ -28,5 +28,15 @@ module.exports = {
         let web  = require('./Assets/uselesswebList').web;
         let w = web[Math.floor(Math.random() * web.length)]
         return w.url
+    },
+    showerThought: function() {
+        let shower  = require('./Assets/shower_list').shower;
+        let s  = shower[Math.floor(Math.random() * shower.length)]
+        return s.thought
+    },
+    meme: function() {
+        let memes  = require('./Assets/memes_list.json');
+        let m  = memes[Math.floor(Math.random() * memes.length)]
+        return m
     }
 };

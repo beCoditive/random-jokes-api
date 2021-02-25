@@ -103,13 +103,13 @@ const jokes = [
         joke: `Today I learned that changing random stuff until your program works is "hacky" and a "bad coding practice" but if you do it fast enough it's "Machine Learning" and pays 4x your current salary.`,
     },
     {
-        joke: `Eight bytes walk into a bar.\nThe bartender asks, "Can I get you anything?"\n"Yeah," reply the bytes.\n"Make us a double."`,
+        joke: `Eight bytes walk into a bar.\n The bartender asks, "Can I get you anything?"\n"Yeah," reply the bytes.\n"Make us a double."`,
     },
     {
         joke: "The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be.",
     },
     {
-        joke: `Two C strings walk into a bar.\nThe bartender asks "What can I get ya?"\nThe first string says "I'll have a gin and tonic."\nThe second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"\nThe first string apologizes, "You'll have to excuse my friend, he's not null-terminated."`,
+        joke: `Two C strings walk into a bar.\n The bartender asks "What can I get ya?"\nThe first string says "I'll have a gin and tonic."\nThe second string thinks for a minute, then says "I'll take a tequila sunriseJF()#$JF(#)$(@J#()$@#())!*FNIN!OBN134ufh1ui34hf9813f8h8384h981h3984h5F!##@"\nThe first string apologizes, "You'll have to excuse my friend, he's not null-terminated."`,
     },
     {
         joke: "I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!",
