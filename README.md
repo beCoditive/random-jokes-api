@@ -77,8 +77,19 @@ bot.login("super_secret_token")
 
 - ``let shower = Memer.showerThought()``
 
+- ``let chuck = Memer.chuckNorris()``
+
+- ``let chuck = Memer.trivia()``
+
+- ``let chuck = Memer.compliement()``
+
+- ``let chuck = Memer.truth()``
+
+- ``let chuck = Memer.dare()``
+
 # Image Generation
 
+### Memes
 
 ```js
 const Memer = require("random-jokes-api")
@@ -108,6 +119,7 @@ bot.on("message", async (message) => {
 })
 
 ````
+
 
 
 
