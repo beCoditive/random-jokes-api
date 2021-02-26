@@ -5,7 +5,6 @@ const shower = [
     {
        thought: "Dora the Explorer is visually impaired and Boots is her service animal because she never sees what she’s looking for unless Boots (and viewers) helps her out",
     },
-
     {
        thought: "Harry Potter books would’ve ended a lot sooner if Voldemort tried to kill baby Harry with a large pillow instead of magic",
     },

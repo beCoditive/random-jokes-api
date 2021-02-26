@@ -1,8 +1,9 @@
 {
   "name": "random-jokes-api",
-  "version": "1.0.3",
+  "version": "1.2.3",
   "main": "index.js",
   "license": "MIT",
+  "description": "This Package is very useful Joke aka Meme API which can be used in your projects.",
   "repository": "https://github.com/beCoditive/random-jokes-api",
   "keywords": [
     "beCoditive",
@@ -14,6 +15,12 @@
     "Pun Jokes",
     "Random Quotes",
     "Roasts",
-    "uselessweb"
+    "uselessweb",
+    "shower thought",
+    "meme",
+    "chuck norris",
+    "compliment",
+    "Trivia Api",
+    "truth and dare"
   ]
 }

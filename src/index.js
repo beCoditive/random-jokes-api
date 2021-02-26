@@ -38,5 +38,30 @@ module.exports = {
         let memes  = require('./Assets/memes_list.json');
         let m  = memes[Math.floor(Math.random() * memes.length)]
         return m
+    },
+    chuckNorris: function() {
+        let chunk  = require('./Assets/chunk_norris.json');
+        let c  = chunk[Math.floor(Math.random() * chunk.length)]
+        return c.norris
+    },
+    trivia: function() {
+        let trivia  = require('./Assets/trivia_q.json');
+        let t  = trivia[Math.floor(Math.random() * trivia.length)]
+        return t
+    },
+    copmliment: function() {
+        let copmliment  = require('./Assets/compliment.json');
+        let c  = copmliment[Math.floor(Math.random() * copmliment.length)]
+        return c.here
+    },
+    truth: function() {
+        let truth  = require('./Assets/truth.json');
+        let c  = truth[Math.floor(Math.random() * truth.length)]
+        return c.truth
+    },
+    dare: function() {
+        let truth  = require('./Assets/dare.json');
+        let d  = truth[Math.floor(Math.random() * truth.length)]
+        return d.dare
     }
 };
