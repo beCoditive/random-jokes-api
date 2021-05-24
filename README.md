@@ -79,13 +79,13 @@ bot.login("super_secret_token")
 
 - ``let chuck = Memer.chuckNorris()``
 
-- ``let chuck = Memer.trivia()``
+- ``let trivia = Memer.trivia()``
 
-- ``let chuck = Memer.compliement()``
+- ``let compliment = Memer.compliement()``
 
-- ``let chuck = Memer.truth()``
+- ``let truth = Memer.truth()``
 
-- ``let chuck = Memer.dare()``
+- ``let dare = Memer.dare()``
 
 # Image Generation
 
