@@ -22,5 +22,9 @@
     "compliment",
     "Trivia Api",
     "truth and dare"
-  ]
+  ],
+  "dependencies": {
+    "becoditive": "0.0.3",
+  }
 }
+
