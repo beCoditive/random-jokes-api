@@ -49,9 +49,9 @@ module.exports = {
         let t  = trivia[Math.floor(Math.random() * trivia.length)]
         return t
     },
-    copmliment: function() {
-        let copmliment  = require('./Assets/compliment.json');
-        let c  = copmliment[Math.floor(Math.random() * copmliment.length)]
+    compliment: function() {
+        let compliment  = require('./Assets/compliment.json');
+        let c  = compliment[Math.floor(Math.random() * compliment.length)]
         return c.here
     },
     truth: function() {
